@@ -36,14 +36,18 @@ Indira Khaibulina
 [https://trello.com/b/RdosOtmY/a-team-kanban-board](https://trello.com/b/KyAqvLUL/s71-group-project)
  
 **Rational for ordering the product backlog:** 
+As a starter, we want to connect people who have limited English-speaking skills with native English speakers; this is our main goal. Our product backlog is ordered as such with the goal of getting the most viable product out of the door ASAP. 
 
 **Our Definition of Ready:** 
-* ...
-* ...
-* ...
+A product backlog item is ready when:
+- it has a title. 
+- it has a clear description
+- it has to have an acceptance criteria 
+- it has an estimation 
+
 	
 **Estimates:**
-....
+See [https://trello.com/b/RdosOtmY/a-team-kanban-board](https://trello.com/b/KyAqvLUL/s71-group-project). The numbers between the parentheses represent the story points. 
 
 **Relative Size Estimate:** 
-....
+We did a whole team relative size estimating activity. We used the estimation activity Plannning Poker to estimate as a team. Only the developers were involved in estimating the PBIs. 
