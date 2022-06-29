@@ -80,4 +80,4 @@ Khaled: no.
 Anara: no.
 
 Screenshot of mob programming on 06/28/2022
-![20220628_201540](https://user-images.githubusercontent.com/13064007/176479864-2ebcb019-37f2-4155-bbab-39ce678670e0.jpg)
+![20220628_211139](https://user-images.githubusercontent.com/13064007/176480126-a4d6e175-b0f9-481d-b497-d89c48c5e41f.jpg)
