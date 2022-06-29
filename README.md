@@ -61,3 +61,23 @@ For this sprint, we pulled the two stories at the top of our product backlog int
 
 The sprint backlog, including both the user stories and developer tasks, is represented in a kanban board. The URL of the kanban board is represented [here](https://trello.com/b/KyAqvLUL/s71-group-project). Course staff can view the kanban board.
 
+**Sprint Burndown Chart**: Click here to view the burndown chart.
+
+**Daily Scrums**: 06/27/2022; 06/28/2022; 06/29/2022; 06/27/2022.
+
+*Documentation of 06/28/2022 Daily Scrum:
+
+Arno: Can we all give a quick update on the tasks we're working on or worked on yesterday. Also please let me know if any of you is blocked or needs help with anything.
+
+Anara: Yesterday, I worked on creating a webpage for mentors to be able to submit a form to volunteer. The task is review right now and is assigned to Khaled. I belive is fullfied all the acceptance criteria required. Khaled – let me know when you get a chance to look at it. 
+
+Anara: Today I will be working with Khaled and Arno on creating a webpage that allows mentees to request mentors. I don't myself have any blockers.
+
+Khaled: I'm reviewing the "Become a mentor" webpage Anara just finished building and as Anara mentioned, I will be also working with her and Arno on creating the mentees page.
+
+Arno: Great! looks like we're on track. Any other comments, questions or concerns?
+Khaled: no.
+Anara: no.
+
+Screenshot of mob programming on 06/28/2022
+![20220628_201540](https://user-images.githubusercontent.com/13064007/176479864-2ebcb019-37f2-4155-bbab-39ce678670e0.jpg)
