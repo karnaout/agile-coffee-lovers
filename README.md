@@ -53,4 +53,9 @@ See [https://trello.com/b/RdosOtmY/a-team-kanban-board](https://trello.com/b/KyA
 We did a whole team relative size estimating activity. We used the estimation activity Plannning Poker to estimate as a team. Only the developers were involved in estimating the PBIs. 
 
 **PART TWO**
+We forecast that we will complete 8 story points during this half sprint. It is difficult to predict how many story points we can complete without a point of comparison (given that this is our first sprint together), however we decided upon a total of 8 story points based off how many points we delegated to each PBI collectively and individually; we think 8 is a reasonable portion and equates to a fourth of the project (as there are four total sprints). 
+
+For this sprint, we pulled the two stories at the top of our product backlog into the sprint backlog; 1) request a mentor and 2) sign up. The aggregate size of the stories does not exceed the forecast of 8. Only developers participated in this activity. <img width="777" alt="Screen Shot 2022-06-27 at 11 55 32 AM" src="https://user-images.githubusercontent.com/13064007/176339464-d4cf5f86-8f1e-4ca0-ba55-91e82e239d51.png">
+<img width="609" alt="Screen Shot 2022-06-28 at 10 40 11 PM" src="https://user-images.githubusercontent.com/13064007/176339466-0c0e2269-bf9d-406d-b67f-d03ac1d52ae5.png">
+
 
