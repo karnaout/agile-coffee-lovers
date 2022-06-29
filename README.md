@@ -51,3 +51,6 @@ See [https://trello.com/b/RdosOtmY/a-team-kanban-board](https://trello.com/b/KyA
 
 **Relative Size Estimate:** 
 We did a whole team relative size estimating activity. We used the estimation activity Plannning Poker to estimate as a team. Only the developers were involved in estimating the PBIs. 
+
+**PART TWO**
+
