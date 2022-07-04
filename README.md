@@ -53,6 +53,7 @@ See [https://trello.com/b/RdosOtmY/a-team-kanban-board](https://trello.com/b/KyA
 We did a whole team relative size estimating activity. We used the estimation activity Plannning Poker to estimate as a team. Only the developers were involved in estimating the PBIs. 
 
 **PART TWO**
+
 We forecast that we will complete 8 story points during this half sprint. It is difficult to predict how many story points we can complete without a point of comparison (given that this is our first sprint together), however we decided upon a total of 8 story points based off how many points we delegated to each PBI collectively and individually; we think 8 is a reasonable portion and equates to a fourth of the project (as there are four total sprints). 
 
 forcast velocity: 10 point
@@ -99,3 +100,34 @@ Here is a link to our working app. https://giveback.community/
 Anara suggested that we spend more time on spring planning beacuse we realized we have a lot of questions when we started workign on user storeis. 
 Arno thought we need to do more sprints in person than over zoom because he feels we're more productive when we work in person.
 Khaled echoed what everyone said and thought we all did great. PBIs are created to represent our users storeis revised order according to our definition of ready and estimated workload.
+
+**PART THREE**
+
+We forecast that we will complete 4 story points during this half sprint. We decided upon a total of 4 story points primarily because of the shorter sprint (due to the fourth of July holiday), and based off how many points we delegated to each PBI collectively and individually. 
+
+Forcast velocity = Previous forecast velocity / 2 = 10/2 = 5 points. This the same velocity as last time, only we divided by two to account for the holidays. Only developers participated in this activity. 
+
+![IMG_6813](https://user-images.githubusercontent.com/65521188/177067595-86659738-5814-46ff-98d7-ab96b5d7948a.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
