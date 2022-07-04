@@ -103,7 +103,7 @@ Khaled echoed what everyone said and thought we all did great. PBIs are created 
 
 **PART THREE**
 
-We forecast that we will complete 4 story points during this half sprint. We decided upon a total of 4 story points primarily because of the shorter sprint (due to the fourth of July holiday), and based off how many points we delegated to each PBI collectively and individually. 
+We forecast that we will complete 4 story points during this half sprint. We decided upon a total of 4 story points primarily because of the shorter sprint (due to the fourth of July holiday), and based off how many points we were able to finish in the previous sprint.
 
 Forcast velocity = Previous forecast velocity / 2 = 10/2 = 5 points. This the same velocity as last time, only we divided by two to account for the holidays. Only developers participated in this activity. 
 
