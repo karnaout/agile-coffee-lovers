@@ -117,13 +117,13 @@ The sprint backlog, including both the user stories and developer tasks, is repr
 
 *Arno*: Hey guys, can we all give a quick update on the tasks we're working on for this third sprint? 
 
-*Anara*: Yes. Also, since we have the weekend off, please remember that this sprint will be shorter than all other sprints; we should expect to get half the amount of work we done (compared to a normal sprint). 
+*Anara*: Yes. I can complete the "Reach out to the User Story" task and also help Khaled with the "Search for Mentors" item. Also, since we have the weekend off, please remember that this sprint will be shorter than all other sprints; we should expect to get half the amount of work we done (compared to a normal sprint). 
 
 *Khaled*: Since we are working on the "Search for Mentors" user story, and since there are several tasks, I think it is definitely possible for us to split up the tasks evenly and we each complete some amount of work. 
 
-*Arno*: That sounds like a plan :) 
+*Arno*: That sounds like a plan :) I can work on writing the "Get Started Guide" and helping with the TDD development. 
 
-After the first daily scrum, we discussed what we did in the last 24 hours: Anara started working on developer tasks 1 and 2 for the "Search for Mentors" sprint backlog item, and is almost finished. But, she will need some assistance to make sure the search button links to the right page. Arno worked on the last two developer tasks, and Khaled worked on the last several. Working on the developer tasks, by definition, is helping us meet this week's Sprint Goal. For the next 24 hours, we will each continue to work on our respective tasks to meet the Sprint Goal.
+After the first daily scrum, we discussed what we did in the last 24 hours: Anara started working on developer tasks 1 and 2 for the "Search for Mentors" sprint backlog item, and is almost finished. But, she will need some assistance to make sure the search button links to the right page. Arno worked on the last two developer tasks, and Khaled worked on "Search for Mentors" and tying up the working software. Working on the developer tasks, by definition, is helping us meet this week's Sprint Goal. For the next 24 hours, we will each continue to work on our respective tasks to meet the Sprint Goal.
 
 In our daily scrums, we also discussed the inpediments we faced. The main challenge we faced was scheduling; because of the holiday weekend, it was very hard for us to schedule a time that worked for all of us to meet and discuss our progress. Often times, a developer might join the meeting late, or someone might have to leave early. This included meetings with the stakeholder. Our inpediment removal plan; our scrum master connected with our stakeholder and created a survey for each developer and the stakeholder. In the survey, all pertinent members were asked to input their available times on a calendar spreadsheet. The Scrum Master (Arno) then picked a time that worked for all of us. Unfortunately, the stakeholder messaged us last minute that she could not make the meeting. We resolved the situation by communicating via text, and rescheduling to have another meeting that worked for all of us at a later time.
 
