@@ -174,6 +174,16 @@ After the first daily scrum, we discussed what we did in the last 24 hours. For 
 
 In our daily scrums, we also discussed the inpediments we faced. The main challenge we faced was a TDD process, threfore we had a team discussion. Arno and Khaled found a few options to resolve the impediment to start building the TDD process. We were working on resolving the situation by communicating via slack and in person meetings.
 
+*Pair- or Mob-Programming* ?
+
+*Test-Driven Development* Here is an evidance of Khaled and Arno working on TDD.
+![TDD evidance](https://user-images.githubusercontent.com/67758076/177669612-92a06593-852a-4bc9-92c0-36a700405b47.jpeg)
+
+*Sprint Retrospective*
+For sprint four, we felt that we improved our process. We spent our sprint planning detailed which made us to succeed finishing user stories on time. Also, we built our TDD that brought an efficiency to the quality of our product. During the meeting we have shared our feedback’s how to make our team better. And we agreed on the solution to meet up hourly three days a week for share knowledge activities. We believ it would help to improve Anara's code knowledge to make her feel confident about building our product and meet the goal. Here is an evidance of our retrospective meeting. 
+![retro](https://user-images.githubusercontent.com/67758076/177671284-a867195d-b157-42ee-a661-afdf59e5a3a9.jpg)
+
+
 
 
 
