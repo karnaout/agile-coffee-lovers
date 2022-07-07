@@ -174,10 +174,8 @@ After the first daily scrum, we discussed what we did in the last 24 hours. For 
 
 In our daily scrums, we also discussed the inpediments we faced. The main challenge we faced was a TDD process, threfore we had a team discussion. Arno and Khaled found a few options to resolve the impediment to start building the TDD process. We were working on resolving the situation by communicating via slack and in person meetings.
 
-*Pair- or Mob-Programming* ?
-
-*Test-Driven Development* Here is evidence of Khaled and Arno working on TDD. The unit test file and the javascript we ran the tests on are uploaded on Github in this repository. The unit test file is called "test.spec.js" and the javascript file is called "checkEligibilty.js" 
-![TDD evidance](https://user-images.githubusercontent.com/67758076/177669612-92a06593-852a-4bc9-92c0-36a700405b47.jpeg)
+*Pair-Programming and Test-Driven Development* Here is evidence of Khaled and Arno working on implementing TDD and doing pair programming. When it comes to TDD, the unit test file and the javascript we ran the tests on are uploaded on Github in this repository. The unit test file is called "test.spec.js" and the javascript file is called "checkEligibilty.js" In terms of pair programming, Khaled and Arno both implemented the driver-navigator strategy we practiced in class; they alternated between who was writing the tests/code (driver) and who was guiding the coder (navigator). 
+![TDD and pair-programming evidence](https://user-images.githubusercontent.com/67758076/177669612-92a06593-852a-4bc9-92c0-36a700405b47.jpeg)
 
 *Sprint Retrospective*
 For sprint four, we felt that we improved our process. We spent our sprint planning detailed what helped us succeed finishing user stories on time. Also, we built our TDD that brought an efficiency to the quality of our product. During the meeting each of us also shared feedback on how to make our team better. And we agreed on the solution to meet up hourly three days a week to share knowledge activities. We believe it would help to improve Anara's code knowledge to make her feel confident about building our product and meet the goal. Here is evidence of our retrospective meeting. 
