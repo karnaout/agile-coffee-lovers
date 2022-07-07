@@ -147,7 +147,7 @@ For sprint, we felt like we were not able to meet in person as often as we had l
 We forecast that we will complete 8 story points during this sprint. We decided upon a total of 8 story points based off how many points we delegated to each PBI and during sprint one.
 
 
-Forcast velocity = 10. This the same velocity as our first sprint time. Only developers participated in this activity. 
+Forcast velocity = 10. We picked this number because it is the same forecast velocity that we used in our first sprint, and that worked for us. Only developers participated in this activity. 
 
 For this sprint, we pulled the three stories at the top of our product backlog into the sprint backlog: 1) Check mentee eligibility, 2) Access to get-started guide, and 3) Reach out to the mentor. The aggregate size of the stories does not exceed the forecast of 8. Only developers participated in this activity. 
 
@@ -156,7 +156,7 @@ The sprint backlog, including both the user stories and developer tasks, is repr
 Sprint Burndown Chart
 [Click here to view the burndown chart](https://docs.google.com/spreadsheets/d/1i0c__B7YQw80HnXtbHe2dz1mbLVdBP3HxH62H7nDhBU/edit?usp=sharing).
 
-**Daily Scrums**: 07/05/2022, 07/06/2022, 07/07/2022
+**Daily Scrums**: 07/04/2022, 07/05/2022, 07/06/2022, 07/07/2022
 
 *Documentation of 07/06/2022 Daily Scrum* (general format of how our conversation went):
 
