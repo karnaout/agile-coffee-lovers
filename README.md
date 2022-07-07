@@ -142,6 +142,28 @@ Here is a link to our working app. https://giveback.community/
 **Sprint Retrospective**
 For sprint, we felt like we were not able to meet in person as often as we had liked, even though we tried to considering what we discussed in the previous sprint retrospective. This was due to the fact that we had a holiday weekend, and scheduling between the three of us (4 if we include the stakeholder) was particularly challenging. We all thought that having each of filling out the survey link with their availabilities was a great idea, and think we should incorporate more of that process in the next and final sprint. 
 
+**PART FOUR**
+
+We forecast that we will complete 8 story points during this sprint. We decided upon a total of 8 story points based off how many points we delegated to each PBI and during sprint one.
+
+
+Forcast velocity = Previous forecast velocity / 2 = 10. This the same velocity as our first sprint time. Only developers participated in this activity. 
+
+For this sprint, we pulled the three stories at the top of our product backlog into the sprint backlog; 1) Check mentee eligibility 2) Access to get-started guide 3) Reach out to the mentor. The aggregate size of the stories does not exceed the forecast of 8. Only developers participated in this activity. 
+
+The sprint backlog, including both the user stories and developer tasks, is represented in a kanban board on Trello. The URL of the kanban board is represented [here](https://trello.com/b/KyAqvLUL/s71-group-project). Everyone (including course staff) can view the kanban board. 
+
+Sprint Burndown Chart
+[Click here to view the burndown chart](https://docs.google.com/spreadsheets/d/1i0c__B7YQw80HnXtbHe2dz1mbLVdBP3HxH62H7nDhBU/edit?usp=sharing).
+
+**Daily Scrums**: 07/05/2022, 07/06/2022, 07/07/2022
+
+*Documentation of 07/06/2022 Daily Scrum* (general format of how our conversation went):
+
+
+
+
+
 
 
 
