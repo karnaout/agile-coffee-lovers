@@ -160,6 +160,20 @@ Sprint Burndown Chart
 
 *Documentation of 07/06/2022 Daily Scrum* (general format of how our conversation went):
 
+*Khaled* Good Morning, Team! How is our process going?
+
+*Arno*: Hey guys, I have picked up an "Access to get-started guide" story. I have no questions about it. 
+
+*Anara*: Good Morning! I am working on two points story "Reach out to the mentor". There is only one deveoper task, I should be finishing by the end of the day. 
+
+*Khaled*: Sounds good. I im in the process of getting the four points story "Check mentee eligibility" done. I finished creating a separate page for it, moving to next tasks. 
+
+*Arno*: That sounds great. Seems like we are in the great path. Go, team :) 
+
+After the first daily scrum, we discussed what we did in the last 24 hours. For the next 24 hours, we will each continue to work on our respective tasks to meet the Sprint Goal.
+
+In our daily scrums, we also discussed the inpediments we faced. The main challenge we faced was a TDD process, threfore we had a team discussion. Arno and Khaled found a few options to resolve the impediment to start building the TDD process. We were working on resolving the situation by communicating via slack and in person meetings.
+
 
 
 
